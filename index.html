@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Marcus Vinicius de Aguiar Paixão">
+    <title>Projeto Calculadora IMC</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="icon" type="image/png" href="icone.png">
+    <link rel="stylesheet" href="estilo.css">
+    <script src="jquery.mask.js"></script>
+    <script>
+    $(document).ready(function()
+    {
+        $('#altura').mask('0.00', {reverse: true});
+    });
+    </script>
+</head>
+<body>
+    <div class="Container">
+        <h1>Calculadora de IMC</h1>
+        <div class="input_campo">
+            <h2>Altura (Metros):</h2>
+            <input type="number" id="altura" name="altura">
+        </div>
+        <div class="input_campo">
+            <h2>Peso (Kg):</h2>
+            <input type="number" id="peso">
+        </div>
+        <textarea readonly id="resultado" name="Resultado"></textarea>
+        <br>
+        <button id="btn_calcular">Calcular</button>
+    </div>
+    <footer>
+        <b><p>&copy; Marcus Vinicius & Etec Prof. Basilides de Godoy - 2023</p></b>
+     </footer>         
+    <script src ="script.js"></script>
+</body>
+</html>
