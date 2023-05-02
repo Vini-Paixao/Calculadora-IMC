@@ -26,4 +26,4 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue
 ## Liçenca
 Este projeto é licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter mais detalhes.
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://github.com/Vini1404/Calculadora-IMC/blob/main/LICENSE.md)
