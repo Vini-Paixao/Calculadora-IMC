@@ -17,9 +17,6 @@ O objetivo deste projeto é criar uma calculadora de IMC que permita ao usuário
 Calcular o IMC a partir do peso e altura informados pelo usuário
 Exibir o resultado do IMC e uma mensagem de acordo com a tabela de classificação do IMC da OMS
 
-## Tecnologias
-HTML, CSS e Javascript
-
 ## Como Usar
 Acesse aqui: <a href="https://vini1404.github.io/Calculadora-IMC/">Calculadora de IMC</a>
 
@@ -27,4 +24,6 @@ Acesse aqui: <a href="https://vini1404.github.io/Calculadora-IMC/">Calculadora d
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Liçenca
-Desenvolvido em aula na Etec Profº Basilides de Godoy por Marcus Vinicius de Aguiar Paixão
+Este projeto é licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter mais detalhes.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
